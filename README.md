@@ -1,2 +1,5 @@
 # EDA--Airbnb-Data
-cleaning data. Data visualization. Python, matplotlib, pandas, numpy, seaborn 
+cleaning data. 
+Data visualization. 
+Using Python, Matplotlib, Pandas, Numpy, Seaborn 
+
